@@ -3,21 +3,21 @@ Repository For the django-tutorial
 
 ## 개발 환경
 - macOS
+- python3.7
 - venv
 - django
-- vscode / vim
 
 ## 실행 방법
 1. 프로젝트를 클론받는다.
-2. 클론받은 폴더 이름은 django-tutorial 일 것일테니 같은 이름으로 venv 를 실행한다.
+2. 클론받은 프로젝트 안에서 venv 가상환경을 만든다.
 ```bash
-python3 -m venv django-tutorial
+python3 -m venv venv 
 ```
 3. 가상환경을 실행한다
 ```bash
-source ./bin/activate
+source ./venv/bin/activate
 ```
-4. 저장된 패키지 목록 requirements.txt 를 설치한다.
+4. 가상환경에 저장된 패키지 목록 requirements.txt 를 설치한다.
 ```bash
 python -m pip install -r requirements.txt
 ```

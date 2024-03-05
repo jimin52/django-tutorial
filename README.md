@@ -1,5 +1,5 @@
 # django-tutorial
-Repository for the django-tutorial
+Repository for the [django-tutorial](https://docs.djangoproject.com/en/5.0/intro/)
 
 ## 개발 환경
 - macOS

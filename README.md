@@ -1,11 +1,11 @@
 # django-tutorial
-Repository For the django-tutorial
+Repository for the django-tutorial
 
 ## 개발 환경
 - macOS
 - python3.7
 - venv
-- django
+- django3.2
 
 ## 실행 방법
 1. 프로젝트를 클론받는다.
